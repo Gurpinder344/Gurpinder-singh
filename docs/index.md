@@ -11,9 +11,8 @@ This seems interesting
 Electric type pokemon
 ## Charizard
 Fire type pokemon
-### Arceus
-God of Pokemons
-- mewtwo
+### God of pokemons
+- Arceus
 - mew
 
 **Instagram** 
