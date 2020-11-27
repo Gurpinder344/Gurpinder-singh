@@ -18,7 +18,7 @@ God of Pokemons
 
 **Instagram** 
 
-[www.Instagram.com] 
+[ www.Instagram.com ] 
 ```
 
 For more details contact [+917696001547]
