@@ -9,9 +9,9 @@ This seems interesting
 
 # Pikachu
 Electric type pokemon
-## Charizard
+# Charizard
 Fire type pokemon
-### God of pokemons
+# God of pokemons #
 - Arceus
 - mew
 
