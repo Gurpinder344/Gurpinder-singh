@@ -1,0 +1,39 @@
+1. Trace this program:
+principal = 5000
+interestRate = .1
+interest = principal * interestRate
+principal = principal+interest
+principal = principal+(principal*interestRate)
+=====================================================
+Statement     Principal  Interest rate   Interest         Output
+
+---------     ------     -------------    ------          ------
+
+16                                                        Enter principal 
+
+
+17             5000
+
+
+20                         .1
+
+ 
+21                                       500  
+
+
+22                                                         5000.1
+
+
+25                                                         5500
+ 
+                                                                 5000 principal = 
+
+                                                                 .1 interestRate
+  
+                                                                 500 interest
+
+                                                                 5000.1 principal
+                   
+                                                                 5500 principal
+                                                                                                            
+
